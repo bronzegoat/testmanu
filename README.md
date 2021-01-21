@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/bronzegoat/testmanu/tree/gh-pages) branch hosts the contents of this directory at <https://bronzegoat.github.io/testmanu/>.
-The permalink for this webpage version is <https://bronzegoat.github.io/testmanu/v/2191d929a12a233347ee79c673b8f2971c10e6dd/>.
+The permalink for this webpage version is <https://bronzegoat.github.io/testmanu/v/bb83c0dbfcee4664d0daad111c266fe10a3c2cfb/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://bronzegoat.github.io/testmanu/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`2191d929a12a233347ee79c673b8f2971c10e6dd`](https://github.com/bronzegoat/testmanu/commit/2191d929a12a233347ee79c673b8f2971c10e6dd).
+[`bb83c0dbfcee4664d0daad111c266fe10a3c2cfb`](https://github.com/bronzegoat/testmanu/commit/bb83c0dbfcee4664d0daad111c266fe10a3c2cfb).
